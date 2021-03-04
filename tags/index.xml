@@ -8,56 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Mar 2021 02:16:47 +0800</lastBuildDate><atom:link href="https://linloritaibon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Good</title>
-      <link>https://linloritaibon.github.io/tags/good/</link>
+      <title>HUGO</title>
+      <link>https://linloritaibon.github.io/tags/hugo/</link>
       <pubDate>Wed, 03 Mar 2021 02:16:47 +0800</pubDate>
       
-      <guid>https://linloritaibon.github.io/tags/good/</guid>
+      <guid>https://linloritaibon.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://linloritaibon.github.io/tags/markdown/</link>
+      <pubDate>Wed, 03 Mar 2021 02:16:47 +0800</pubDate>
+      
+      <guid>https://linloritaibon.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://linloritaibon.github.io/tags/css/</link>
+      <pubDate>Tue, 02 Mar 2021 23:57:47 +0800</pubDate>
+      
+      <guid>https://linloritaibon.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
       <link>https://linloritaibon.github.io/tags/html/</link>
-      <pubDate>Wed, 03 Mar 2021 02:16:47 +0800</pubDate>
+      <pubDate>Tue, 02 Mar 2021 23:57:47 +0800</pubDate>
       
       <guid>https://linloritaibon.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://linloritaibon.github.io/tags/game/</link>
+      <title>javaScript</title>
+      <link>https://linloritaibon.github.io/tags/javascript/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://linloritaibon.github.io/tags/game/</guid>
+      <guid>https://linloritaibon.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://linloritaibon.github.io/tags/new/</link>
+      <title>jQuery</title>
+      <link>https://linloritaibon.github.io/tags/jquery/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://linloritaibon.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://linloritaibon.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://linloritaibon.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://linloritaibon.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://linloritaibon.github.io/tags/python/</guid>
+      <guid>https://linloritaibon.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     

@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Mar 2021 02:16:47 +0800</lastBuildDate><atom:link href="https://linloritaibon.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HUGO</title>
+      <link>https://linloritaibon.github.io/categories/hugo/</link>
+      <pubDate>Wed, 03 Mar 2021 02:16:47 +0800</pubDate>
+      
+      <guid>https://linloritaibon.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>心得</title>
       <link>https://linloritaibon.github.io/categories/%E5%BF%83%E5%BE%97/</link>
       <pubDate>Wed, 03 Mar 2021 02:16:47 +0800</pubDate>
@@ -17,20 +26,20 @@
     </item>
     
     <item>
-      <title>Go Language</title>
-      <link>https://linloritaibon.github.io/categories/go-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>HTML/CSS</title>
+      <link>https://linloritaibon.github.io/categories/html/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linloritaibon.github.io/categories/go-language/</guid>
+      <guid>https://linloritaibon.github.io/categories/html/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming Language</title>
-      <link>https://linloritaibon.github.io/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>學習/研究</title>
+      <link>https://linloritaibon.github.io/categories/%E5%AD%B8%E7%BF%92/%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://linloritaibon.github.io/categories/programming-language/</guid>
+      <guid>https://linloritaibon.github.io/categories/%E5%AD%B8%E7%BF%92/%E7%A0%94%E7%A9%B6/</guid>
       <description></description>
     </item>
     
